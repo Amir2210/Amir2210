@@ -3,7 +3,7 @@
 # 💫 Hi, I'm Amir Yankolovich 👋
 
 
-⭐ I’m currently working on developing a responsive and user-friendly web application that leverages the latest technologies for both the front end and back end.
+⭐ I’m currently working on developing a responsive and user-friendly web application that leverages the latest technologies for both the frontend and backend.
 
 👯 I’m looking to collaborate on open-source projects that focus on enhancing user experiences, exploring new frameworks, or addressing real-world challenges in web development.
 
