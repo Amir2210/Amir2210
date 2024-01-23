@@ -1,36 +1,42 @@
-# Hi! I'm Amir Yankolovich 👋
+<div align="center">
+
+# 💫 Hi, I'm Amir Yankolovich 👋
 
 
+⭐ I’m currently working on developing a responsive and user-friendly web application that leverages the latest technologies for both the front end and back end.
 
-• 🌴 Proficient in building single-page apps
+👯 I’m looking to collaborate on open-source projects that focus on enhancing user experiences, exploring new frameworks, or addressing real-world challenges in web development.
 
-• 🎯 High self-disciplined with a constant drive for professional excellence.
+🤝 I’m looking for help with optimizing performance in large-scale applications, particularly in the backend, and exploring effective ways to implement and integrate cutting-edge technologies.
 
-• 📫 You can reach me at amiryankolovich2000@gmail.com
+💬 Ask me about the latest trends in web development, best practices for creating responsive designs, or any challenges you're facing in your development projects.
 
+🏋️‍♂️ Fun fact: In my free time, I'm passionate about hitting the gym and staying active. I find that regular exercise not only keeps me physically fit but also boosts my energy levels and enhances my overall well-being. Whether it's lifting weights, doing cardio, or trying out new fitness routines, I enjoy the invigorating effects of a good workout.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-yankolovich) 
 
+# 💻 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
+      
+</p>
 
-## Languages and Tools:
-[<img title="BABEL" alt="BABEL" width="40px" height="40px" src="https://res.cloudinary.com/dkvliixzt/image/upload/v1705957249/babel-svgrepo-com_j2jg4w.svg" />](https://babeljs.io/)
-[<img title="Quasar" alt="Quasar" width="40px" height="40px" src="https://www.svgrepo.com/show/306629/quasar.svg" />](https://quasar.dev/)
-[<img title="CSS" alt="CSS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
-[<img title="EXPRESS" alt="EXPRESS" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />](https://expressjs.com/)
-[<img title="GIT" alt="GIT"  width="40px" height="40px" src="https://res.cloudinary.com/dkvliixzt/image/upload/v1705957283/github-142-svgrepo-com_2_fygu3n.svg" />](https://git-scm.com/)
-[<img title="HTML" alt="HTML"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://www.w3schools.com/html/)
-[<img title="JS" alt="JS"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.w3schools.com/js/)
-[<img title="MONGODB" alt="MONGODB"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />](https://www.mongodb.com/)
-[<img title="NODEJS" alt="NODEJS"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org/en/)
-[<img title="POSTMAN" alt="POSTMAN"  width="40px" height="40px" src="https://res.cloudinary.com/dkvliixzt/image/upload/v1705957300/postman-icon-svgrepo-com_fwqc0u.svg" />](https://www.postman.com/)
-[<img title="REACT" alt="REACT"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />](https://reactjs.org/)
-[<img title="VUE" alt="VUE"  width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" />](https://vuejs.org/)
-[<img title="ANGULAR" alt="ANGULAR"  width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />](https://angular.io/)
-[<img title="REDUX" alt="REDUX"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />](https://redux.js.org/)
-[<img title="SASS" alt="SASS"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://sass-lang.com/)
-[<img title="TYPESCRIPT" alt="TYPESCRIPT"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
-[<img title="Recoil" alt="Recoil"  width="40px" height="40px"
-      src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1673650287/recoil-js_y2kpao.svg" />](https://recoiljs.org/)
-      [<img title="Matireal UI" alt="Matireal UI"  width="40px" height="40px"
-      src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1673650384/material-ui-1_waefnx.svg" />](https://mui.com/)
-            [<img title="Pinia" alt="Pinia"  width="40px" height="40px"
-      src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1681160325/logo_gpzyuz.svg" />](https://pinia.vuejs.org/)
+# 📊 GitHub Stats:
+  <img src="https://github-readme-stats.vercel.app/api?username=amir2210&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir2210&theme=dracula&hide_border=false" alt="GitHub Streak" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir2210&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+### 😂 Random Dev Meme
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Random Dev Meme"/>
+
+</div>
