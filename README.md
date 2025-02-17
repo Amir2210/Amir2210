@@ -43,9 +43,15 @@
 
 ###
 
-<img align="left" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lrc3hyd21oYTI1N3BoOXo1MHp2OWFtc2ZmZnY4bzU3dGk0MWxqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lrc3hyd21oYTI1N3BoOXo1MHp2OWFtc2ZmZnY4bzU3dGk0MWxqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amir2210&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -53,6 +59,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/amir2210/amir2210/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
 
 ###
